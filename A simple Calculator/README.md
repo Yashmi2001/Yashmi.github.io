@@ -1,6 +1,6 @@
 # A simple Calculator
- A simple calculator using HTML, CSS &amp; Javascript
- !OUTPUT:(https://yashmi2001.github.io/A%20simple%20Calculator/index.html)
+ A simple calculator using HTML, CSS &amp; Javascript!
+ OUTPUT: https://yashmi2001.github.io/A%20simple%20Calculator/index.html
  This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
  
 ## Steps to execute this calculator:
